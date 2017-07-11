@@ -1,0 +1,3 @@
+这是一个用java写的仿微信聊天对话框，实现微信公众号自动回复功能的工程
+用到的框架为spring springmvc，mybatis
+
